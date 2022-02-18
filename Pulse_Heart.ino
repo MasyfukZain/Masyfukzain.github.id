@@ -1,5 +1,4 @@
 /*Heart pulse sensor with Arduino
- * https://srituhobby.com
  */
  
 #include <SPI.h>
